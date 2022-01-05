@@ -1,5 +1,5 @@
 
-# Session-based Sequential Skip Prediction: Spotify 
+# Session-based Sequential Skip Prediction: Spotify 🎵
 
 ### Abstract
 Spotify is a leading music streaming service with over
