@@ -25,5 +25,11 @@ behavioural patterns of how users engage with tracks
 and which of the track features play an important
 role in this prediction.
 
-![alt text](https://github.com/[bhairavi-m]/[Spotify-Sequential-Skip-Prediction]/[master]/PCA%201.png?raw=true)
+### Methods
+
+Pre-Processing, Feature Engineering, Modelling are detailed on the `Spotify.ipnyb` notebook.
+
+#### A detailed report can be viewed [here](https://drive.google.com/file/d/1BQT-Utcb4O52bOcUdhZ3uln9xhe2022N/view?usp=sharing).
+
+
 
