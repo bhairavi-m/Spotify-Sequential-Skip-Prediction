@@ -31,5 +31,6 @@ Pre-Processing, Feature Engineering, Modelling are detailed on the `Spotify.ipny
 
 #### A detailed report can be viewed [here](https://drive.google.com/file/d/1BQT-Utcb4O52bOcUdhZ3uln9xhe2022N/view?usp=sharing).
 
+The project is implemented as a solution for the challenge held by [Spotify hosted on AICrowd](https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge)
 
 
