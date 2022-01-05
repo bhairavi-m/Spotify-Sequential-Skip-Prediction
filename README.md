@@ -1,3 +1,4 @@
+
 # Session-based Sequential Skip Prediction: Spotify 
 
 ### Abstract
@@ -12,6 +13,7 @@ We describe two types of solution approaches in this
 paper and analyse them in detail.
 
 ### Motivation
+
 The main challenge for Spotify is to recommend the
 right music to each user and hence most of the work
 focuses on Recommender Systems and a little on
@@ -22,4 +24,6 @@ Learning problem as it helps us understand intricate
 behavioural patterns of how users engage with tracks
 and which of the track features play an important
 role in this prediction.
+
 ![alt text](https://github.com/[bhairavi-m]/[Spotify-Sequential-Skip-Prediction]/[master]/PCA%201.png?raw=true)
+
